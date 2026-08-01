@@ -1,0 +1,23 @@
+{
+  "name": "filler-scrape",
+  "version": "1.0.0",
+  "description": "Scrapes animefillerlist.com and publishes filler.json, keyed by AniList media id.",
+  "type": "module",
+  "license": "MIT",
+  "author": "nickEatsBread",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickEatsBread/filler-scrape.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

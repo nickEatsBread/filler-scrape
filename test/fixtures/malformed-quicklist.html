@@ -1,0 +1,43 @@
+<!--
+  Hand-written fixture. Exercises the degraded paths:
+    - Quick List present but with junk tokens ("??", "unknown", "12--", "")
+    - one category whose class attribute is missing, so the visible label is
+      the only way to classify it
+    - an episode table that disagrees with the Quick List (table marks 9 as
+      filler, the Quick List does not)
+-->
+<html>
+  <body>
+    <h1>Example Show Filler List</h1>
+    <div class="CopyProtected">
+      <div id="Condensed">
+        <div class="manga_canon">
+          <span class="Label">Manga Canon Episodes:</span>
+          <span class="Episodes">1-4, 6</span>
+        </div>
+        <div>
+          <span class="Label">Mixed Canon/Filler Episodes:</span>
+          <span class="Episodes">7</span>
+        </div>
+        <div class="filler">
+          <span class="Label">Filler Episodes:</span>
+          <span class="Episodes">5, ??, 8, 10, unknown, 12--, , 15 to 16</span>
+        </div>
+      </div>
+      <table>
+        <tr class="manga_canon odd" id="eps-1"><td class="Number">1</td><td class="Type"><span>Manga Canon</span></td></tr>
+        <tr class="manga_canon even" id="eps-2"><td class="Number">2</td><td class="Type"><span>Manga Canon</span></td></tr>
+        <tr class="manga_canon odd" id="eps-3"><td class="Number">3</td><td class="Type"><span>Manga Canon</span></td></tr>
+        <tr class="manga_canon even" id="eps-4"><td class="Number">4</td><td class="Type"><span>Manga Canon</span></td></tr>
+        <tr class="filler odd" id="eps-5"><td class="Number">5</td><td class="Type"><span>Filler</span></td></tr>
+        <tr class="manga_canon even" id="eps-6"><td class="Number">6</td><td class="Type"><span>Manga Canon</span></td></tr>
+        <tr class="mixed_canon/filler odd" id="eps-7"><td class="Number">7</td><td class="Type"><span>Mixed Canon/Filler</span></td></tr>
+        <tr class="filler even" id="eps-8"><td class="Number">8</td><td class="Type"><span>Filler</span></td></tr>
+        <tr class="filler odd" id="eps-9"><td class="Number">9</td><td class="Type"><span>Filler</span></td></tr>
+        <tr class="filler even" id="eps-10"><td class="Number">10</td><td class="Type"><span>Filler</span></td></tr>
+        <tr class="anime_canon odd" id="eps-11"><td class="Number">11</td><td class="Type"><span>Anime Canon</span></td></tr>
+        <tr class="filler even" id="eps-15"><td class="Number">15-16</td><td class="Type"><span>Filler</span></td></tr>
+      </table>
+    </div>
+  </body>
+</html>

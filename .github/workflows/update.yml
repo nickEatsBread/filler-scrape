@@ -1,0 +1,71 @@
+name: Update filler data
+
+on:
+  schedule:
+    # Weekly, Mondays 04:17 UTC. Off-peak and off the hour so the crawl does
+    # not land at the same moment as everyone else's cron.
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: 'Re-query AniList for slugs already in mapping.json'
+        type: boolean
+        default: false
+
+# Least privilege: the job only needs to push the regenerated JSON.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-filler-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # A full run is ~370 shows at a 10s crawl delay (robots.txt Crawl-delay),
+    # so roughly 65 minutes, plus AniList lookups for anything not yet mapped.
+    timeout-minutes: 180
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run tests
+        run: node --test
+
+      - name: Scrape
+        run: node scrape.js ${{ inputs.refresh && '--refresh' || '' }}
+
+      - name: Guard against a truncated run
+        run: |
+          set -euo pipefail
+          # A partial crawl (mass fetch failures, a site layout change) would
+          # otherwise be committed as a silent data regression.
+          git show HEAD:filler.json > /tmp/filler-before.json 2>/dev/null || echo '{}' > /tmp/filler-before.json
+          node scripts/check-regression.js /tmp/filler-before.json filler.json
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add filler.json mapping.json unmatched.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          echo "Changes staged:"
+          git diff --cached --stat
+
+          git commit -m "chore(data): refresh filler data"
+          git push
