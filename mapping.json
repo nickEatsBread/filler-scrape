@@ -1,1 +1,1782 @@
-{}
+{
+  "abandoned-sacred-beasts": {
+    "anilistId": 107672,
+    "title": "To the Abandoned Sacred Beasts (Katsute Kami Datta Kemono-tachi e)",
+    "matchedTitle": "To the Abandoned Sacred Beasts",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:47:17.873Z"
+  },
+  "ace-diamond-act-ii": {
+    "anilistId": 105749,
+    "title": "Ace of the Diamond: Act II",
+    "matchedTitle": "Ace of the Diamond act II",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 52,
+    "anilistEpisodes": 52,
+    "resolvedAt": "2026-08-03T07:51:32.475Z"
+  },
+  "akame-ga-kill": {
+    "anilistId": 20613,
+    "title": "Akame ga Kill!",
+    "matchedTitle": "Akame ga Kill!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T07:51:52.781Z"
+  },
+  "akatsuki-no-yona": {
+    "anilistId": 20770,
+    "title": "Yona of the Dawn (Akatsuki no Yona)",
+    "matchedTitle": "Yona of the Dawn",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:50:30.821Z"
+  },
+  "ancient-magus-bride": {
+    "anilistId": 98436,
+    "title": "The Ancient Magus' Bride (Mahoutsukai no Yome)",
+    "matchedTitle": "The Ancient Magus' Bride",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:44:24.600Z"
+  },
+  "angel-heart": {
+    "anilistId": 282,
+    "title": "Angel Heart",
+    "matchedTitle": "Angel Heart",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 50,
+    "anilistEpisodes": 50,
+    "resolvedAt": "2026-08-03T07:52:13.169Z"
+  },
+  "another": {
+    "anilistId": 11111,
+    "title": "Another",
+    "matchedTitle": "Another",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:52:23.335Z"
+  },
+  "aoashi": {
+    "anilistId": 134732,
+    "title": "Aoashi",
+    "matchedTitle": "Aoashi",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T07:52:33.509Z"
+  },
+  "attack-on-titan-junior-high": {
+    "anilistId": 21281,
+    "title": "Attack on Titan: Junior High",
+    "matchedTitle": "Attack on Titan: Junior High",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:53:24.437Z"
+  },
+  "beelzebub": {
+    "anilistId": 9513,
+    "title": "Beelzebub",
+    "matchedTitle": "Beelzebub",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 60,
+    "anilistEpisodes": 60,
+    "resolvedAt": "2026-08-03T07:53:44.693Z"
+  },
+  "berserk": {
+    "anilistId": 33,
+    "title": "Berserk (Berserk Kenpuden)",
+    "matchedTitle": "Berserk",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T07:53:58.903Z"
+  },
+  "berserk-2016": {
+    "anilistId": 33,
+    "title": "Berserk (2016)",
+    "matchedTitle": "Berserk",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T07:54:07.028Z"
+  },
+  "berserk-golden-age-arc-memorial-edition": {
+    "anilistId": 155011,
+    "title": "Berserk: The Golden Age Arc - Memorial Edition",
+    "matchedTitle": "Berserk: The Golden Age Arc - Memorial Edition",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 6,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T07:54:25.284Z"
+  },
+  "beyblade-burst-god": {
+    "anilistId": 98289,
+    "title": "Beyblade Burst Evolution",
+    "matchedTitle": "Beyblade Burst Evolution",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 1,
+    "anilistEpisodes": 51,
+    "resolvedAt": "2026-08-03T07:54:35.388Z"
+  },
+  "beyblade-burst-quadstrike": {
+    "anilistId": 166062,
+    "title": "Beyblade Burst QuadStrike",
+    "matchedTitle": "Beyblade Burst QuadStrike",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T07:54:45.473Z"
+  },
+  "beyblade-metal-fight": {
+    "anilistId": 5962,
+    "title": "Beyblade Metal Fusion",
+    "matchedTitle": "Beyblade: Metal Fusion",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 51,
+    "anilistEpisodes": 51,
+    "resolvedAt": "2026-08-03T07:54:55.716Z"
+  },
+  "beyblade-x": {
+    "anilistId": 165159,
+    "title": "Beyblade X",
+    "matchedTitle": "BEYBLADE X",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 40,
+    "anilistEpisodes": null,
+    "resolvedAt": "2026-08-03T07:55:05.910Z"
+  },
+  "black-clover": {
+    "anilistId": 97940,
+    "title": "Black Clover",
+    "matchedTitle": "Black Clover",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 170,
+    "anilistEpisodes": 170,
+    "resolvedAt": "2026-08-03T07:55:46.705Z"
+  },
+  "bleach": {
+    "anilistId": 269,
+    "title": "Bleach",
+    "matchedTitle": "Bleach",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 366,
+    "anilistEpisodes": 366,
+    "resolvedAt": "2026-08-03T07:56:37.297Z"
+  },
+  "blue-lock-0": {
+    "anilistId": 137822,
+    "title": "BLUE LOCK",
+    "matchedTitle": "BLUE LOCK",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T07:57:37.867Z"
+  },
+  "bobobo-bo-bobo": {
+    "anilistId": 1050,
+    "title": "Bobobo-bo Bo-bobo",
+    "matchedTitle": "Bobobo-bo Bo-bobo",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 76,
+    "anilistEpisodes": 76,
+    "resolvedAt": "2026-08-03T07:57:48.135Z"
+  },
+  "boruto-naruto-next-generations": {
+    "anilistId": 97938,
+    "title": "Boruto: Naruto Next Generations",
+    "matchedTitle": "Boruto: Naruto Next Generations",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 293,
+    "anilistEpisodes": 293,
+    "resolvedAt": "2026-08-03T07:57:58.251Z"
+  },
+  "boruto-naruto-next-generations-definitive-filler-list": {
+    "anilistId": 97938,
+    "title": "Boruto: Naruto Next Generations (Definitive)",
+    "matchedTitle": "Boruto: Naruto Next Generations",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 293,
+    "anilistEpisodes": 293,
+    "resolvedAt": "2026-08-03T07:58:10.710Z"
+  },
+  "boruto-naruto-next-generations-manga-canon": {
+    "anilistId": 9314,
+    "title": "Fractale",
+    "matchedTitle": "Fractale",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 11,
+    "anilistEpisodes": 11,
+    "resolvedAt": "2026-08-03T08:11:09.687Z"
+  },
+  "btooom": {
+    "anilistId": 14345,
+    "title": "BTOOOM!",
+    "matchedTitle": "BTOOOM!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:58:18.732Z"
+  },
+  "burn-witch": {
+    "anilistId": 116673,
+    "title": "BURN THE WITCH",
+    "matchedTitle": "BURN THE WITCH",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 3,
+    "anilistEpisodes": 3,
+    "resolvedAt": "2026-08-03T07:58:38.920Z"
+  },
+  "buso-renkin": {
+    "anilistId": 1536,
+    "title": "Buso Renkin",
+    "matchedTitle": "Arms Alchemy",
+    "matchedField": "synonym",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T07:58:49.091Z"
+  },
+  "campione": {
+    "anilistId": 12293,
+    "title": "Campione!",
+    "matchedTitle": "Campione!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T07:58:59.240Z"
+  },
+  "carnival-phantasm": {
+    "anilistId": 10012,
+    "title": "Carnival Phantasm",
+    "matchedTitle": "Carnival Phantasm",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:59:19.686Z"
+  },
+  "chainsaw-man": {
+    "anilistId": 127230,
+    "title": "Chainsaw Man",
+    "matchedTitle": "Chainsaw Man",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:59:29.765Z"
+  },
+  "charlotte": {
+    "anilistId": 20997,
+    "title": "Charlotte",
+    "matchedTitle": "Charlotte",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T07:59:39.981Z"
+  },
+  "chrono-crusade": {
+    "anilistId": 21778,
+    "title": "Thus Spoke Rohan Kishibe",
+    "matchedTitle": "Thus Spoke Rohan Kishibe",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 4,
+    "anilistEpisodes": 4,
+    "resolvedAt": "2026-08-03T08:46:43.173Z"
+  },
+  "claymore": {
+    "anilistId": 1818,
+    "title": "Claymore",
+    "matchedTitle": "Claymore",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:00:20.541Z"
+  },
+  "cobra-animation": {
+    "anilistId": 5032,
+    "title": "Cobra: The Animation",
+    "matchedTitle": "COBRA THE ANIMATION",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:00:30.754Z"
+  },
+  "d-frag": {
+    "anilistId": 20031,
+    "title": "D-Frag!",
+    "matchedTitle": "D-Frag!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:01:31.509Z"
+  },
+  "dandadan": {
+    "anilistId": 171018,
+    "title": "DAN DA DAN",
+    "matchedTitle": "DAN DA DAN",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 3,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:02:01.936Z"
+  },
+  "darling-franxx": {
+    "anilistId": 99423,
+    "title": "Darling in the FranXX",
+    "matchedTitle": "DARLING in the FRANXX",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:02:12.073Z"
+  },
+  "darwins-game": {
+    "anilistId": 105190,
+    "title": "Darwin's Game",
+    "matchedTitle": "Darwin's Game",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 10,
+    "anilistEpisodes": 11,
+    "resolvedAt": "2026-08-03T08:02:22.277Z"
+  },
+  "deadman-wonderland": {
+    "anilistId": 6880,
+    "title": "Deadman Wonderland",
+    "matchedTitle": "Deadman Wonderland",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:02:32.361Z"
+  },
+  "death-note": {
+    "anilistId": 1535,
+    "title": "Death Note",
+    "matchedTitle": "Death Note",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 37,
+    "anilistEpisodes": 37,
+    "resolvedAt": "2026-08-03T08:02:42.463Z"
+  },
+  "death-parade": {
+    "anilistId": 20931,
+    "title": "Death Parade",
+    "matchedTitle": "Death Parade",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:03:02.855Z"
+  },
+  "dennou-coil": {
+    "anilistId": 2164,
+    "title": "Den-noh Coil",
+    "matchedTitle": "Den-noh Coil",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:03:33.208Z"
+  },
+  "detective-conan": {
+    "anilistId": 235,
+    "title": "Detective Conan",
+    "matchedTitle": "Detective Conan",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 1209,
+    "anilistEpisodes": null,
+    "resolvedAt": "2026-08-03T08:03:43.587Z"
+  },
+  "detective-school-q": {
+    "anilistId": 407,
+    "title": "Detective School Q (Tantei Gakuen Q)",
+    "matchedTitle": "Detective School Q",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 45,
+    "resolvedAt": "2026-08-03T08:03:57.663Z"
+  },
+  "devil-part-timer": {
+    "anilistId": 15809,
+    "title": "The Devil Is a Part-Timer! (Hataraku Maou-Sama!)",
+    "matchedTitle": "The Devil is a Part-Timer!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:44:44.931Z"
+  },
+  "devilman-crybaby": {
+    "anilistId": 98460,
+    "title": "Devilman Crybaby",
+    "matchedTitle": "Devilman Crybaby",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 10,
+    "anilistEpisodes": 10,
+    "resolvedAt": "2026-08-03T08:04:03.690Z"
+  },
+  "digimon-tamers": {
+    "anilistId": 106154,
+    "title": "Ghost in the Shell: SAC_2045",
+    "matchedTitle": "Ghost in the Shell: SAC_2045",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:13:31.458Z"
+  },
+  "don’t-toy-me-miss-nagatoro": {
+    "anilistId": 120697,
+    "title": "DON'T TOY WITH ME, MISS NAGATORO (Ijiranaide, Nagatoro-san)",
+    "matchedTitle": "DON'T TOY WITH ME, MISS NAGATORO",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:04:48.303Z"
+  },
+  "dragon-ball": {
+    "anilistId": 223,
+    "title": "Dragon Ball",
+    "matchedTitle": "Dragon Ball",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 153,
+    "anilistEpisodes": 153,
+    "resolvedAt": "2026-08-03T08:05:24.613Z"
+  },
+  "dragon-ball-heroes": {
+    "anilistId": 102352,
+    "title": "Super Dragon Ball Heroes",
+    "matchedTitle": "Super Dragon Ball Heroes",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 40,
+    "anilistEpisodes": 56,
+    "resolvedAt": "2026-08-03T08:43:19.379Z"
+  },
+  "dragon-ball-super": {
+    "anilistId": 21175,
+    "title": "Dragon Ball Super",
+    "matchedTitle": "Dragon Ball Super",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 131,
+    "anilistEpisodes": 131,
+    "resolvedAt": "2026-08-03T08:06:15.377Z"
+  },
+  "dragon-ball-super-broly": {
+    "anilistId": 105228,
+    "title": "Dorohedoro",
+    "matchedTitle": "Dorohedoro",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:04:54.284Z"
+  },
+  "dragon-ball-z": {
+    "anilistId": 813,
+    "title": "Dragon Ball Z",
+    "matchedTitle": "Dragon Ball Z",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 291,
+    "anilistEpisodes": 291,
+    "resolvedAt": "2026-08-03T08:06:35.705Z"
+  },
+  "dragon-quest-adventure-dai": {
+    "anilistId": 114099,
+    "title": "DRAGON QUEST The Adventure of Dai (2020)",
+    "matchedTitle": "Dragon Quest: The Adventure of Dai",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 17,
+    "anilistEpisodes": 100,
+    "resolvedAt": "2026-08-03T08:06:59.983Z"
+  },
+  "drifters": {
+    "anilistId": 21123,
+    "title": "Drifters",
+    "matchedTitle": "DRIFTERS",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:07:05.946Z"
+  },
+  "elemental-gelade": {
+    "anilistId": 139095,
+    "title": "Fairy Tail: 100 Years Quest",
+    "matchedTitle": "FAIRY TAIL 100 YEARS QUEST",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:09:07.857Z"
+  },
+  "elfen-lied": {
+    "anilistId": 226,
+    "title": "Elfen Lied",
+    "matchedTitle": "Elfen Lied",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:07:46.525Z"
+  },
+  "erased": {
+    "anilistId": 21234,
+    "title": "ERASED (Boku Dake ga Inai Machi)",
+    "matchedTitle": "ERASED",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:08:11.071Z"
+  },
+  "excel-saga": {
+    "anilistId": 379,
+    "title": "Excel Saga",
+    "matchedTitle": "Excel Saga",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:08:17.184Z"
+  },
+  "fate-apocrypha": {
+    "anilistId": 98035,
+    "title": "Fate/Apocrypha",
+    "matchedTitle": "Fate/Apocrypha",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:09:18.047Z"
+  },
+  "fatestay-night": {
+    "anilistId": 356,
+    "title": "Fate/stay night",
+    "matchedTitle": "Fate/stay night",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:09:38.345Z"
+  },
+  "fist-of-the-blue-sky-regenesis": {
+    "anilistId": 100408,
+    "title": "Fist of the Blue Sky: Regenesis",
+    "matchedTitle": "Fist of the Blue Sky: Regenesis",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:10:28.882Z"
+  },
+  "food-wars-second-plate-1": {
+    "anilistId": 2994,
+    "title": "Death Note: Relight",
+    "matchedTitle": "Death Note: Relight",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 2,
+    "anilistEpisodes": 2,
+    "resolvedAt": "2026-08-03T08:02:52.614Z"
+  },
+  "fruits-basket-2001": {
+    "anilistId": 120,
+    "title": "Fruits Basket (Furuba)",
+    "matchedTitle": "Fruits Basket",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:11:23.937Z"
+  },
+  "fullmetal-alchemist": {
+    "anilistId": 121,
+    "title": "Fullmetal Alchemist",
+    "matchedTitle": "Fullmetal Alchemist",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 51,
+    "anilistEpisodes": 51,
+    "resolvedAt": "2026-08-03T08:11:50.157Z"
+  },
+  "fullmetal-alchemist-brotherhood": {
+    "anilistId": 5114,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "matchedTitle": "Fullmetal Alchemist: Brotherhood",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 64,
+    "anilistEpisodes": 64,
+    "resolvedAt": "2026-08-03T08:12:20.545Z"
+  },
+  "gachiakuta": {
+    "anilistId": 178025,
+    "title": "Gachiakuta",
+    "matchedTitle": "Gachiakuta",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 2,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:12:40.797Z"
+  },
+  "gangsta": {
+    "anilistId": 20773,
+    "title": "GANGSTA.",
+    "matchedTitle": "GANGSTA.",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:12:50.920Z"
+  },
+  "girlfriend-girlfriend": {
+    "anilistId": 126192,
+    "title": "Girlfriend, Girlfriend (Kanojo mo Kanojo)",
+    "matchedTitle": "Girlfriend, Girlfriend",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:14:26.243Z"
+  },
+  "girls-last-tour": {
+    "anilistId": 99420,
+    "title": "Girls' Last Tour (Shoujo Shuumatsu Ryokou)",
+    "matchedTitle": "Girls' Last Tour",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:14:36.338Z"
+  },
+  "goblin-slayer": {
+    "anilistId": 101165,
+    "title": "Goblin Slayer",
+    "matchedTitle": "GOBLIN SLAYER",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:14:42.295Z"
+  },
+  "god-high-school": {
+    "anilistId": 116006,
+    "title": "The God of High School (Gat Obeu Hai Seukul)",
+    "matchedTitle": "The God of High School",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:45:15.484Z"
+  },
+  "gosick": {
+    "anilistId": 8425,
+    "title": "Gosick",
+    "matchedTitle": "Gosick",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:15:02.629Z"
+  },
+  "gurren-lagann": {
+    "anilistId": 2001,
+    "title": "GURREN LAGANN",
+    "matchedTitle": "Gurren Lagann",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 27,
+    "anilistEpisodes": 27,
+    "resolvedAt": "2026-08-03T08:15:22.801Z"
+  },
+  "hajime-no-ippo-champion-road": {
+    "anilistId": 264,
+    "title": "Hajime no Ippo: Champion Road",
+    "matchedTitle": "Hajime no Ippo: The Fighting! - Champion Road",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 1,
+    "anilistEpisodes": 1,
+    "resolvedAt": "2026-08-03T08:15:43.069Z"
+  },
+  "hakyu-hoshin-engi": {
+    "anilistId": 99727,
+    "title": "Hakyu Hoshin Engi",
+    "matchedTitle": "HAKYU HOSHIN ENGI",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 23,
+    "anilistEpisodes": 23,
+    "resolvedAt": "2026-08-03T08:16:13.556Z"
+  },
+  "hanamonogatari": {
+    "anilistId": 20593,
+    "title": "Hanamonogatari",
+    "matchedTitle": "Hanamonogatari",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 5,
+    "anilistEpisodes": 5,
+    "resolvedAt": "2026-08-03T08:16:23.659Z"
+  },
+  "handa-kun": {
+    "anilistId": 21626,
+    "title": "Handa-kun",
+    "matchedTitle": "Handa-kun",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:16:33.835Z"
+  },
+  "hellsing": {
+    "anilistId": 270,
+    "title": "Hellsing",
+    "matchedTitle": "Hellsing",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:17:14.284Z"
+  },
+  "hellsing-ultimate": {
+    "anilistId": 777,
+    "title": "Hellsing Ultimate",
+    "matchedTitle": "Hellsing Ultimate",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 10,
+    "anilistEpisodes": 10,
+    "resolvedAt": "2026-08-03T08:17:24.383Z"
+  },
+  "hell’s-paradise": {
+    "anilistId": 128893,
+    "title": "Hell’s Paradise (Jigokuraku)",
+    "matchedTitle": "Hell’s Paradise",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:17:34.577Z"
+  },
+  "heroic-legend-arslan": {
+    "anilistId": 20935,
+    "title": "The Heroic Legend of Arslan (Arslan Senki)",
+    "matchedTitle": "The Heroic Legend of Arslan",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:45:25.647Z"
+  },
+  "hikaru-no-go": {
+    "anilistId": 135,
+    "title": "Hikaru no Go",
+    "matchedTitle": "Hikaru no Go",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 75,
+    "anilistEpisodes": 75,
+    "resolvedAt": "2026-08-03T08:18:15.356Z"
+  },
+  "hunter-x-hunter": {
+    "anilistId": 11061,
+    "title": "Hunter × Hunter (2011)",
+    "matchedTitle": "Hunter x Hunter (2011)",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 148,
+    "anilistEpisodes": 148,
+    "resolvedAt": "2026-08-03T08:18:45.951Z"
+  },
+  "initial-d-extra-stage": {
+    "anilistId": 822,
+    "title": "Initial D Extra Stage",
+    "matchedTitle": "Initial D Extra Stage",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 2,
+    "anilistEpisodes": 2,
+    "resolvedAt": "2026-08-03T08:19:06.318Z"
+  },
+  "initial-d-extra-stage-2": {
+    "anilistId": 5228,
+    "title": "Initial D Extra Stage 2",
+    "matchedTitle": "Initial D EXTRA STAGE 2",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 1,
+    "anilistEpisodes": 1,
+    "resolvedAt": "2026-08-03T08:19:16.470Z"
+  },
+  "inuyashiki-last-hero": {
+    "anilistId": 97922,
+    "title": "Inuyashiki Last Hero",
+    "matchedTitle": "INUYASHIKI LAST HERO",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 11,
+    "anilistEpisodes": 11,
+    "resolvedAt": "2026-08-03T08:19:47.044Z"
+  },
+  "kabaneri-iron-fortress": {
+    "anilistId": 21196,
+    "title": "Kabaneri of the Iron Fortress",
+    "matchedTitle": "Kabaneri of the Iron Fortress",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:21:18.740Z"
+  },
+  "kaiju-no8": {
+    "anilistId": 153288,
+    "title": "Kaiju No. 8 (Kaijuu 8-gou)",
+    "matchedTitle": "Kaiju No. 8",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:21:53.339Z"
+  },
+  "katekyo-hitman-reborn": {
+    "anilistId": 1604,
+    "title": "Reborn! (Katekyō Hitman Reborn!)",
+    "matchedTitle": "REBORN!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 203,
+    "anilistEpisodes": 203,
+    "resolvedAt": "2026-08-03T08:35:46.737Z"
+  },
+  "keroro-gunsou-sgtfrog": {
+    "anilistId": 516,
+    "title": "Sgt. Frog (Keroro Gunsou)",
+    "matchedTitle": "Sgt. Frog",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 358,
+    "anilistEpisodes": 358,
+    "resolvedAt": "2026-08-03T08:40:00.504Z"
+  },
+  "killing-bites": {
+    "anilistId": 98389,
+    "title": "Killing Bites",
+    "matchedTitle": "Killing Bites",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:22:29.859Z"
+  },
+  "kirby-right-back-ya": {
+    "anilistId": 2390,
+    "title": "Kirby: Right Back at Ya! (Hoshi no Kābī)",
+    "matchedTitle": "Kirby: Right Back at Ya!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 100,
+    "anilistEpisodes": 100,
+    "resolvedAt": "2026-08-03T08:22:54.372Z"
+  },
+  "kiznaiver": {
+    "anilistId": 21421,
+    "title": "Kiznaiver",
+    "matchedTitle": "Kiznaiver",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:23:00.433Z"
+  },
+  "land-lustrous": {
+    "anilistId": 98707,
+    "title": "Land of the Lustrous (Houseki no Kuni)",
+    "matchedTitle": "Land of the Lustrous",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:23:55.279Z"
+  },
+  "madan-no-ou-vanadis-lord-marksman-and-vanadis": {
+    "anilistId": 20809,
+    "title": "Lord Marksman and Vanadis (Madan No Ou to Vanadis)",
+    "matchedTitle": "Lord Marksman and Vanadis",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:24:05.497Z"
+  },
+  "made-abyss": {
+    "anilistId": 97986,
+    "title": "Made in Abyss",
+    "matchedTitle": "Made in Abyss",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:24:11.457Z"
+  },
+  "magi-adventure-sinbad-tv": {
+    "anilistId": 21394,
+    "title": "Magi: Adventure of Sinbad",
+    "matchedTitle": "Magi: Adventure of Sinbad",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:24:31.851Z"
+  },
+  "magia-record-puella-magi-madoka-magica-side-story": {
+    "anilistId": 104051,
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+    "matchedTitle": "Magia Record: Puella Magi Madoka Magica Side Story",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:24:42.018Z"
+  },
+  "magister-negi-magi": {
+    "anilistId": 157,
+    "title": "Negima! (Mahou Sensei Negima!)",
+    "matchedTitle": "Negima!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:28:45.881Z"
+  },
+  "maid-sama": {
+    "anilistId": 7054,
+    "title": "Maid-Sama! (Kaichou wa maid sama)",
+    "matchedTitle": "Maid-Sama!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:25:02.436Z"
+  },
+  "masamune-kuns-revenge": {
+    "anilistId": 21857,
+    "title": "Masamune-kun's Revenge (Masamune-kun no Revenge)",
+    "matchedTitle": "Masamune-kun's Revenge",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:25:12.649Z"
+  },
+  "mf-ghost": {
+    "anilistId": 143327,
+    "title": "MF Ghost",
+    "matchedTitle": "MF GHOST",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:25:32.980Z"
+  },
+  "michiko-hatchin": {
+    "anilistId": 4087,
+    "title": "Michiko & Hatchin",
+    "matchedTitle": "Michiko & Hatchin",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 22,
+    "anilistEpisodes": 22,
+    "resolvedAt": "2026-08-03T08:25:43.148Z"
+  },
+  "mobile-suit-gundam": {
+    "anilistId": 80,
+    "title": "Mobile Suit Gundam (Kidou Senshi Gundam)",
+    "matchedTitle": "Mobile Suit Gundam",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 43,
+    "anilistEpisodes": 43,
+    "resolvedAt": "2026-08-03T08:26:17.839Z"
+  },
+  "monogatari-series-second-season": {
+    "anilistId": 17074,
+    "title": "Monogatari Series Second Season",
+    "matchedTitle": "Monogatari Series Second Season",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 23,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:26:34.133Z"
+  },
+  "monster": {
+    "anilistId": 19,
+    "title": "Monster",
+    "matchedTitle": "Monster",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 74,
+    "anilistEpisodes": 74,
+    "resolvedAt": "2026-08-03T08:26:44.206Z"
+  },
+  "my-dress-darling": {
+    "anilistId": 132405,
+    "title": "My Dress-Up Darling (Sono Bisque Doll wa Koi wo Suru)",
+    "matchedTitle": "My Dress-Up Darling",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:26:58.411Z"
+  },
+  "my-hero-academia-vigilantes": {
+    "anilistId": 185736,
+    "title": "My Hero Academia: Vigilantes (Vigilante: Boku no Hero Academia Illegals)",
+    "matchedTitle": "My Hero Academia: Vigilantes",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 2,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:27:39.058Z"
+  },
+  "nadia-secret-blue-water": {
+    "anilistId": 1251,
+    "title": "Nadia: The Secret of Blue Water (Fushigi no Umi no Nadia)",
+    "matchedTitle": "Nadia: The Secret of Blue Water",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 39,
+    "anilistEpisodes": 39,
+    "resolvedAt": "2026-08-03T08:27:59.436Z"
+  },
+  "naruto": {
+    "anilistId": 20,
+    "title": "Naruto",
+    "matchedTitle": "Naruto",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 220,
+    "anilistEpisodes": 220,
+    "resolvedAt": "2026-08-03T08:28:05.420Z"
+  },
+  "naruto-shippuden": {
+    "anilistId": 1735,
+    "title": "Naruto Shippuden",
+    "matchedTitle": "Naruto: Shippuden",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 500,
+    "anilistEpisodes": 500,
+    "resolvedAt": "2026-08-03T08:28:35.811Z"
+  },
+  "neon-genesis-evangelion": {
+    "anilistId": 30,
+    "title": "Neon Genesis Evangelion",
+    "matchedTitle": "Neon Genesis Evangelion",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:29:16.408Z"
+  },
+  "nisemonogatari": {
+    "anilistId": 11597,
+    "title": "Nisemonogatari",
+    "matchedTitle": "Nisemonogatari",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 11,
+    "anilistEpisodes": 11,
+    "resolvedAt": "2026-08-03T08:29:46.876Z"
+  },
+  "no-game-no-life": {
+    "anilistId": 19815,
+    "title": "No Game, No Life",
+    "matchedTitle": "No Game, No Life",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:29:57.032Z"
+  },
+  "noragami-aragoto": {
+    "anilistId": 157,
+    "title": "Negima!? (Mahou Sensei Negima?!)",
+    "matchedTitle": "Negima!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:29:06.210Z"
+  },
+  "one-pace": {
+    "anilistId": 21,
+    "title": "One Pace (One Piece)",
+    "matchedTitle": "ONE PIECE",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 138,
+    "anilistEpisodes": null,
+    "resolvedAt": "2026-08-03T08:30:31.783Z"
+  },
+  "one-piece": {
+    "anilistId": 21,
+    "title": "One Piece",
+    "matchedTitle": "ONE PIECE",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 1168,
+    "anilistEpisodes": null,
+    "resolvedAt": "2026-08-03T08:30:37.888Z"
+  },
+  "one-piece-0": {
+    "anilistId": 171630,
+    "title": "The One Piece",
+    "matchedTitle": "THE ONE PIECE",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 7,
+    "resolvedAt": "2026-08-03T08:45:41.912Z"
+  },
+  "one-piece-log-fish-man-island-saga": {
+    "anilistId": 183423,
+    "title": "One Piece Log: Fish-Man Island Saga",
+    "matchedTitle": "One Piece Log: Fish-Man Island Saga",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 6,
+    "anilistEpisodes": 21,
+    "resolvedAt": "2026-08-03T08:30:58.162Z"
+  },
+  "orange": {
+    "anilistId": 21647,
+    "title": "Orange",
+    "matchedTitle": "Orange",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:31:38.760Z"
+  },
+  "ouran-high-school-host-club": {
+    "anilistId": 853,
+    "title": "Ouran High School Host Club",
+    "matchedTitle": "Ouran High School Host Club",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 14,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:31:48.855Z"
+  },
+  "owarimonogatari": {
+    "anilistId": 21262,
+    "title": "Owarimonogatari",
+    "matchedTitle": "Owarimonogatari",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 9,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:32:19.279Z"
+  },
+  "parasyte-maxim": {
+    "anilistId": 20623,
+    "title": "Parasyte: The Maxim (Kiseijuu)",
+    "matchedTitle": "Parasyte -the maxim-",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:32:33.580Z"
+  },
+  "platinum-end": {
+    "anilistId": 127401,
+    "title": "Platinum End",
+    "matchedTitle": "Platinum End",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:32:39.614Z"
+  },
+  "pluto": {
+    "anilistId": 99088,
+    "title": "PLUTO",
+    "matchedTitle": "PLUTO",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 8,
+    "anilistEpisodes": 8,
+    "resolvedAt": "2026-08-03T08:32:49.738Z"
+  },
+  "pokémon-origins-0": {
+    "anilistId": 20159,
+    "title": "Pokémon Origins (Pocket Monsters: The Origin)",
+    "matchedTitle": "Pokémon Origins",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 4,
+    "anilistEpisodes": 4,
+    "resolvedAt": "2026-08-03T08:33:34.573Z"
+  },
+  "prince-tennis-0": {
+    "anilistId": 22,
+    "title": "The Prince of Tennis (Tenisu no Ōjisama)",
+    "matchedTitle": "The Prince of Tennis",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 178,
+    "anilistEpisodes": 178,
+    "resolvedAt": "2026-08-03T08:45:56.428Z"
+  },
+  "puella-magi-madoka-magica": {
+    "anilistId": 9756,
+    "title": "Puella Magi Madoka Magica",
+    "matchedTitle": "Puella Magi Madoka Magica",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:34:51.974Z"
+  },
+  "rave-master": {
+    "anilistId": 246,
+    "title": "Rave Master (Groove Adventure Rave)",
+    "matchedTitle": "Rave Master",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 51,
+    "anilistEpisodes": 51,
+    "resolvedAt": "2026-08-03T08:35:26.566Z"
+  },
+  "record-ragnarok": {
+    "anilistId": 127399,
+    "title": "Record of Ragnarok (Shuumatsu no Walküre)",
+    "matchedTitle": "Record of Ragnarok",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:36:07.009Z"
+  },
+  "redo-healer": {
+    "anilistId": 113425,
+    "title": "Redo of Healer (Kaifuku Jutsushi no Yarinaoshi)",
+    "matchedTitle": "Redo of Healer",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:36:17.189Z"
+  },
+  "revolutionary-girl-utena": {
+    "anilistId": 440,
+    "title": "Revolutionary Girl Utena (Shoujo Kakumei Utena)",
+    "matchedTitle": "Revolutionary Girl Utena",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 39,
+    "anilistEpisodes": 39,
+    "resolvedAt": "2026-08-03T08:36:47.598Z"
+  },
+  "rising-shield-hero": {
+    "anilistId": 99263,
+    "title": "The Rising of the Shield Hero (Tate no Yuusha no Nariagari)",
+    "matchedTitle": "The Rising of the Shield Hero",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:46:16.720Z"
+  },
+  "sage-tanya-evil": {
+    "anilistId": 21613,
+    "title": "Saga of Tanya the Evil",
+    "matchedTitle": "Saga of Tanya the Evil",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:37:54.458Z"
+  },
+  "saint-seiya": {
+    "anilistId": 1254,
+    "title": "Saint Seiya",
+    "matchedTitle": "Saint Seiya: Knights of the Zodiac",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 114,
+    "anilistEpisodes": 114,
+    "resolvedAt": "2026-08-03T08:38:55.287Z"
+  },
+  "samurai-champloo": {
+    "anilistId": 205,
+    "title": "Samurai Champloo",
+    "matchedTitle": "Samurai Champloo",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:39:05.432Z"
+  },
+  "serial-experiments-lain": {
+    "anilistId": 339,
+    "title": "Serial Experiments Lain",
+    "matchedTitle": "Serial Experiments Lain",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:39:45.911Z"
+  },
+  "seven-deadly-sins-four-knights-apocalypse": {
+    "anilistId": 148862,
+    "title": "The Seven Deadly Sins: Four Knights of the Apocalypse (Mokushiroku no Yonkishi)",
+    "matchedTitle": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:46:37.157Z"
+  },
+  "shaman-king": {
+    "anilistId": 154,
+    "title": "Shaman King",
+    "matchedTitle": "Shaman King",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 64,
+    "resolvedAt": "2026-08-03T08:40:16.523Z"
+  },
+  "shaman-king-2021": {
+    "anilistId": 119675,
+    "title": "Shaman King (2021)",
+    "matchedTitle": "SHAMAN KING (2021)",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 52,
+    "anilistEpisodes": 52,
+    "resolvedAt": "2026-08-03T08:40:26.664Z"
+  },
+  "shaman-kingflowers": {
+    "anilistId": 147850,
+    "title": "Shaman King: Flowers",
+    "matchedTitle": "SHAMAN KING FLOWERS",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:40:36.803Z"
+  },
+  "shy": {
+    "anilistId": 155389,
+    "title": "SHY",
+    "matchedTitle": "SHY",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:40:57.050Z"
+  },
+  "shōnan-pure-love-gang": {
+    "anilistId": 104463,
+    "title": "A Certain Scientific Accelerator (Toaru Kagaku no Accelerator)",
+    "matchedTitle": "A Certain Scientific Accelerator",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T07:50:55.667Z"
+  },
+  "sket-dance": {
+    "anilistId": 9863,
+    "title": "SKET Dance",
+    "matchedTitle": "SKET Dance",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 54,
+    "anilistEpisodes": 77,
+    "resolvedAt": "2026-08-03T08:41:17.531Z"
+  },
+  "skip-beat": {
+    "anilistId": 4722,
+    "title": "Skip Beat!",
+    "matchedTitle": "Skip Beat!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:41:27.663Z"
+  },
+  "slam-dunk-0": {
+    "anilistId": 170,
+    "title": "Slam Dunk",
+    "matchedTitle": "Slam Dunk",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 101,
+    "anilistEpisodes": 101,
+    "resolvedAt": "2026-08-03T08:41:37.810Z"
+  },
+  "soul-eater": {
+    "anilistId": 3588,
+    "title": "Soul Eater",
+    "matchedTitle": "Soul Eater",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 51,
+    "anilistEpisodes": 51,
+    "resolvedAt": "2026-08-03T08:41:47.896Z"
+  },
+  "soul-eater-not": {
+    "anilistId": 20547,
+    "title": "Soul Eater Not!",
+    "matchedTitle": "Soul Eater Not!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:41:58.018Z"
+  },
+  "soul-hunter": {
+    "anilistId": 1108,
+    "title": "Soul Hunter (Hoshin Engi)",
+    "matchedTitle": "Soul Hunter",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:42:12.306Z"
+  },
+  "space-cobra": {
+    "anilistId": 2451,
+    "title": "Space Cobra",
+    "matchedTitle": "Space Adventure Cobra",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 31,
+    "anilistEpisodes": 31,
+    "resolvedAt": "2026-08-03T08:42:18.361Z"
+  },
+  "space-patrol-luloco": {
+    "anilistId": 21637,
+    "title": "SPACE PATROL LULUCO",
+    "matchedTitle": "Space Patrol Luluco",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 13,
+    "anilistEpisodes": 13,
+    "resolvedAt": "2026-08-03T08:42:28.500Z"
+  },
+  "steins-gate-0": {
+    "anilistId": 21127,
+    "title": "Steins;Gate 0",
+    "matchedTitle": "Steins;Gate 0",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 23,
+    "anilistEpisodes": 23,
+    "resolvedAt": "2026-08-03T08:42:59.063Z"
+  },
+  "summertime-render": {
+    "anilistId": 129201,
+    "title": "Summer Time Rendering",
+    "matchedTitle": "Summer Time Rendering",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:43:09.188Z"
+  },
+  "sword-art-online-alternative-ggo": {
+    "anilistId": 100183,
+    "title": "Sword Art Online Alternative: Gun Gale Online",
+    "matchedTitle": "Sword Art Online Alternative: Gun Gale Online",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:43:39.736Z"
+  },
+  "terror-resonance": {
+    "anilistId": 20661,
+    "title": "Terror in Resonance (Zankyou no Terror)",
+    "matchedTitle": "Terror in Resonance",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 11,
+    "anilistEpisodes": 11,
+    "resolvedAt": "2026-08-03T08:44:04.225Z"
+  },
+  "time-i-got-reincarnated-slime": {
+    "anilistId": 101280,
+    "title": "That Time I Got Reincarnated as a Slime (Tensei shitara Slime Datta Ken)",
+    "matchedTitle": "That Time I Got Reincarnated as a Slime",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:44:14.439Z"
+  },
+  "tokyo-mew-mew": {
+    "anilistId": 687,
+    "title": "Tokyo Mew Mew",
+    "matchedTitle": "Tokyo Mew Mew",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 52,
+    "anilistEpisodes": 52,
+    "resolvedAt": "2026-08-03T08:47:54.382Z"
+  },
+  "toradora": {
+    "anilistId": 4224,
+    "title": "Toradora!",
+    "matchedTitle": "Toradora!",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 25,
+    "anilistEpisodes": 25,
+    "resolvedAt": "2026-08-03T08:48:14.580Z"
+  },
+  "toriko": {
+    "anilistId": 10033,
+    "title": "Toriko",
+    "matchedTitle": "Toriko",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 147,
+    "anilistEpisodes": 147,
+    "resolvedAt": "2026-08-03T08:48:24.705Z"
+  },
+  "trigun": {
+    "anilistId": 6,
+    "title": "Trigun",
+    "matchedTitle": "Trigun",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:48:34.853Z"
+  },
+  "tsugumomo": {
+    "anilistId": 97625,
+    "title": "Tsugumomo",
+    "matchedTitle": "Tsugumomo",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:48:44.960Z"
+  },
+  "tsukimonogatari": {
+    "anilistId": 20918,
+    "title": "Tsukimonogatari",
+    "matchedTitle": "Tsukimonogatari",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 4,
+    "anilistEpisodes": 4,
+    "resolvedAt": "2026-08-03T08:48:55.083Z"
+  },
+  "undead-unluck": {
+    "anilistId": 154116,
+    "title": "Undead Unluck",
+    "matchedTitle": "Undead Unluck",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 24,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:49:05.274Z"
+  },
+  "uq-holder-magister-negi-magi-2": {
+    "anilistId": 21855,
+    "title": "UQ Holder!",
+    "matchedTitle": "UQ Holder!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:49:15.486Z"
+  },
+  "urusei-yatsura": {
+    "anilistId": 1293,
+    "title": "Urusei Yatsura (1981)",
+    "matchedTitle": "Urusei Yatsura",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 167,
+    "anilistEpisodes": 195,
+    "resolvedAt": "2026-08-03T08:49:29.890Z"
+  },
+  "yakusoku-no-neverland": {
+    "anilistId": 146668,
+    "title": "RWBY: Ice Queendom",
+    "matchedTitle": "RWBY: Ice Queendom",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 0,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:37:44.304Z"
+  },
+  "yashahime-princess-half-demon": {
+    "anilistId": 118399,
+    "title": "Yashahime: Princess Half-Demon",
+    "matchedTitle": "Yashahime: Princess Half-Demon",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 6,
+    "anilistEpisodes": 24,
+    "resolvedAt": "2026-08-03T08:50:16.472Z"
+  },
+  "your-lie-april": {
+    "anilistId": 20665,
+    "title": "Your lie in April (Shigatsu wa Kimi no Uso)",
+    "matchedTitle": "Your lie in April",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 22,
+    "anilistEpisodes": 22,
+    "resolvedAt": "2026-08-03T08:50:40.993Z"
+  },
+  "yowamushi-pedal": {
+    "anilistId": 18179,
+    "title": "Yowamushi Pedal",
+    "matchedTitle": "Yowamushi Pedal",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 14,
+    "anilistEpisodes": 38,
+    "resolvedAt": "2026-08-03T08:50:47.020Z"
+  },
+  "yu-gi-oh-arc-v": {
+    "anilistId": 20552,
+    "title": "Yu-Gi-Oh! ARC-V",
+    "matchedTitle": "Yu-Gi-Oh! ARC-V",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 20,
+    "anilistEpisodes": 148,
+    "resolvedAt": "2026-08-03T08:51:27.775Z"
+  },
+  "yu-gi-oh-capsule-monsters": {
+    "anilistId": 123074,
+    "title": "Yu-Gi-Oh! Capsule Monsters",
+    "matchedTitle": "Yu-Gi-Oh! Capsule Monsters",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 12,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:51:37.958Z"
+  },
+  "yu-gi-oh-gx": {
+    "anilistId": 482,
+    "title": "Yu-Gi-Oh! GX",
+    "matchedTitle": "Yu-Gi-Oh! GX",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 180,
+    "anilistEpisodes": 180,
+    "resolvedAt": "2026-08-03T08:52:08.559Z"
+  },
+  "yu-gi-oh-sevens": {
+    "anilistId": 114072,
+    "title": "Yu-Gi-Oh! SEVENS",
+    "matchedTitle": "Yu-Gi-Oh! SEVENS",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 4,
+    "anilistEpisodes": 92,
+    "resolvedAt": "2026-08-03T08:52:18.650Z"
+  },
+  "yu-gi-oh-vrains": {
+    "anilistId": 98231,
+    "title": "Yu-Gi-Oh! VRAINS",
+    "matchedTitle": "Yu-Gi-Oh! VRAINS",
+    "matchedField": "romaji",
+    "source": "anilist-search",
+    "aflEpisodes": 56,
+    "anilistEpisodes": 120,
+    "resolvedAt": "2026-08-03T08:52:28.850Z"
+  },
+  "yu-no-girl-who-chants-love-bound-world": {
+    "anilistId": 97995,
+    "title": "YU-NO: A Girl Who Chants Love at the Bound of This World",
+    "matchedTitle": "YU-NO: A Girl Who Chants Love at the Bound of This World",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 26,
+    "anilistEpisodes": 26,
+    "resolvedAt": "2026-08-03T08:52:49.270Z"
+  },
+  "zatch-bell": {
+    "anilistId": 250,
+    "title": "Zatch Bell! (Konjiki no Gash Bell!!)",
+    "matchedTitle": "Zatch Bell!",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 150,
+    "anilistEpisodes": 150,
+    "resolvedAt": "2026-08-03T08:53:03.653Z"
+  },
+  "zom-100-bucket-list-dead": {
+    "anilistId": 159831,
+    "title": "Zom 100: Bucket List of the Dead",
+    "matchedTitle": "Zom 100: Bucket List of the Dead",
+    "matchedField": "english",
+    "source": "anilist-search",
+    "aflEpisodes": 9,
+    "anilistEpisodes": 12,
+    "resolvedAt": "2026-08-03T08:53:09.667Z"
+  }
+}
