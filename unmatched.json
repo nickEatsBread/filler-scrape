@@ -1101,17 +1101,6 @@
         "matchedField": "english"
       },
       {
-        "id": 103223,
-        "title": "Bungo Stray Dogs 3",
-        "romaji": "Bungou Stray Dogs 3rd Season",
-        "format": "TV",
-        "episodes": 12,
-        "seasonYear": 2019,
-        "score": 0.938,
-        "matchedOn": "bungo stray dogs 3",
-        "matchedField": "english"
-      },
-      {
         "id": 21679,
         "title": "Bungo Stray Dogs 2",
         "romaji": "Bungou Stray Dogs 2nd Season",
@@ -1120,6 +1109,17 @@
         "seasonYear": 2016,
         "score": 0.938,
         "matchedOn": "bungo stray dogs 2",
+        "matchedField": "english"
+      },
+      {
+        "id": 103223,
+        "title": "Bungo Stray Dogs 3",
+        "romaji": "Bungou Stray Dogs 3rd Season",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2019,
+        "score": 0.938,
+        "matchedOn": "bungo stray dogs 3",
         "matchedField": "english"
       },
       {
@@ -4324,17 +4324,6 @@
         "matchedField": "english"
       },
       {
-        "id": 190840,
-        "title": "Kingdom Season 6",
-        "romaji": "Kingdom 6th Season",
-        "format": "TV",
-        "episodes": 13,
-        "seasonYear": 2025,
-        "score": 0.571,
-        "matchedOn": "kingdom season 6",
-        "matchedField": "english"
-      },
-      {
         "id": 140350,
         "title": "Kingdom Season 4",
         "romaji": "Kingdom 4th Season",
@@ -4343,6 +4332,17 @@
         "seasonYear": 2022,
         "score": 0.571,
         "matchedOn": "kingdom season 4",
+        "matchedField": "english"
+      },
+      {
+        "id": 190840,
+        "title": "Kingdom Season 6",
+        "romaji": "Kingdom 6th Season",
+        "format": "TV",
+        "episodes": 13,
+        "seasonYear": 2025,
+        "score": 0.571,
+        "matchedOn": "kingdom season 6",
         "matchedField": "english"
       },
       {
@@ -6167,6 +6167,17 @@
         "matchedField": "romaji"
       },
       {
+        "id": 213581,
+        "title": "Kanojo, Okarishimasu 6th Season",
+        "romaji": "Kanojo, Okarishimasu 6th Season",
+        "format": null,
+        "episodes": null,
+        "seasonYear": null,
+        "score": 0.78,
+        "matchedOn": "rent a girlfriend season 6",
+        "matchedField": "synonym"
+      },
+      {
         "id": 124410,
         "title": "Rent-a-Girlfriend Season 2",
         "romaji": "Kanojo, Okarishimasu 2nd Season",
@@ -6186,17 +6197,6 @@
         "seasonYear": 2025,
         "score": 0.78,
         "matchedOn": "rent a girlfriend season 4",
-        "matchedField": "english"
-      },
-      {
-        "id": 154745,
-        "title": "Rent-a-Girlfriend Season 3",
-        "romaji": "Kanojo, Okarishimasu 3rd Season",
-        "format": "TV",
-        "episodes": 12,
-        "seasonYear": 2023,
-        "score": 0.78,
-        "matchedOn": "rent a girlfriend season 3",
         "matchedField": "english"
       }
     ]
@@ -7469,64 +7469,20 @@
   },
   "x": {
     "title": "X",
-    "reason": "no-exact-title-match",
+    "reason": "synonym-only-match",
     "aflEpisodes": 24,
     "fillerCount": 0,
     "candidates": [
       {
-        "id": 156,
-        "title": "X (TV)",
-        "romaji": "X (TV)",
+        "id": 165159,
+        "title": "BEYBLADE X",
+        "romaji": "BEYBLADE X",
         "format": "TV",
-        "episodes": 24,
-        "seasonYear": 2001,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 7411,
-        "title": "Kanojo x Kanojo x Kanojo",
-        "romaji": "Kanojo x Kanojo x Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu",
-        "format": "OVA",
-        "episodes": 3,
-        "seasonYear": 2009,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 4866,
-        "title": "Pico x CoCo x Chico",
-        "romaji": "Pico x CoCo x Chico",
-        "format": "OVA",
-        "episodes": 1,
-        "seasonYear": 2008,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 21644,
-        "title": "Puzzle & Dragons X",
-        "romaji": "Puzzle & Dragons X",
-        "format": "TV",
-        "episodes": 89,
-        "seasonYear": 2016,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 21884,
-        "title": "X Maiden",
-        "romaji": "X Maiden",
-        "format": "ONA",
-        "episodes": 8,
-        "seasonYear": 2014,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
+        "episodes": null,
+        "seasonYear": 2023,
+        "score": 1,
+        "matchedOn": "x",
+        "matchedField": "synonym"
       }
     ]
   },
