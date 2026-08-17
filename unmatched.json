@@ -334,17 +334,6 @@
     },
     "candidates": [
       {
-        "id": 19759,
-        "title": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
-        "romaji": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
-        "format": "SPECIAL",
-        "episodes": 1,
-        "seasonYear": 2013,
-        "score": 1,
-        "matchedOn": "assassination classroom",
-        "matchedField": "synonym"
-      },
-      {
         "id": 20755,
         "title": "Assassination Classroom",
         "romaji": "Ansatsu Kyoushitsu",
@@ -354,6 +343,17 @@
         "score": 1,
         "matchedOn": "assassination classroom",
         "matchedField": "english"
+      },
+      {
+        "id": 19759,
+        "title": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+        "romaji": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+        "format": "SPECIAL",
+        "episodes": 1,
+        "seasonYear": 2013,
+        "score": 1,
+        "matchedOn": "assassination classroom",
+        "matchedField": "synonym"
       },
       {
         "id": 21170,
@@ -717,7 +717,7 @@
         "title": "The Classroom of the Black Cat and a Witch",
         "romaji": "Kuroneko to Majo no Kyoushitsu",
         "format": "TV",
-        "episodes": null,
+        "episodes": 24,
         "seasonYear": 2026,
         "score": 0.34,
         "matchedOn": "the classroom of a black cat and a witch",
@@ -3047,23 +3047,23 @@
         "matchedField": "romaji"
       },
       {
-        "id": 9969,
-        "title": "Gintama Season 2",
-        "romaji": "Gintama'",
-        "format": "TV",
-        "episodes": 51,
-        "seasonYear": 2011,
-        "score": 1,
-        "matchedOn": "gintama",
-        "matchedField": "romaji"
-      },
-      {
         "id": 97889,
         "title": "Gintama Season 4",
         "romaji": "Gintama.",
         "format": "TV",
         "episodes": 12,
         "seasonYear": 2017,
+        "score": 1,
+        "matchedOn": "gintama",
+        "matchedField": "romaji"
+      },
+      {
+        "id": 9969,
+        "title": "Gintama Season 2",
+        "romaji": "Gintama'",
+        "format": "TV",
+        "episodes": 51,
+        "seasonYear": 2011,
         "score": 1,
         "matchedOn": "gintama",
         "matchedField": "romaji"
@@ -3117,17 +3117,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 110355,
-        "title": "Golden Kamuy Season 3",
-        "romaji": "Golden Kamuy 3rd Season",
-        "format": "TV",
-        "episodes": 12,
-        "seasonYear": 2020,
-        "score": 0.833,
-        "matchedOn": "golden kamui 3",
-        "matchedField": "synonym"
-      },
-      {
         "id": 102977,
         "title": "Golden Kamuy Season 2",
         "romaji": "Golden Kamuy 2nd Season",
@@ -3136,6 +3125,17 @@
         "seasonYear": 2018,
         "score": 0.833,
         "matchedOn": "golden kamui 2",
+        "matchedField": "synonym"
+      },
+      {
+        "id": 110355,
+        "title": "Golden Kamuy Season 3",
+        "romaji": "Golden Kamuy 3rd Season",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2020,
+        "score": 0.833,
+        "matchedOn": "golden kamui 3",
         "matchedField": "synonym"
       },
       {
@@ -3393,41 +3393,19 @@
   },
   "high-school-dxd": {
     "title": "Highschool DxD",
-    "reason": "no-exact-title-match",
+    "reason": "synonym-only-match",
     "aflEpisodes": 48,
     "fillerCount": 3,
     "candidates": [
       {
-        "id": 20745,
-        "title": "High School DxD BorN",
-        "romaji": "High School DxD BorN",
+        "id": 11617,
+        "title": "High School DxD",
+        "romaji": "High School DxD",
         "format": "TV",
         "episodes": 12,
-        "seasonYear": 2015,
-        "score": 0.929,
-        "matchedOn": "highschool dxd 3",
-        "matchedField": "synonym"
-      },
-      {
-        "id": 12729,
-        "title": "High School DxD OVA",
-        "romaji": "High School DxD OVA",
-        "format": "OVA",
-        "episodes": 2,
         "seasonYear": 2012,
-        "score": 0.867,
-        "matchedOn": "highschool dxd ova",
-        "matchedField": "synonym"
-      },
-      {
-        "id": 13357,
-        "title": "High School DxD: Fantasy Jiggles Unleashed",
-        "romaji": "High School DxD Specials",
-        "format": "SPECIAL",
-        "episodes": 6,
-        "seasonYear": 2012,
-        "score": 0.743,
-        "matchedOn": "highschool dxd specials",
+        "score": 1,
+        "matchedOn": "highschool dxd",
         "matchedField": "synonym"
       }
     ]
@@ -4324,17 +4302,6 @@
         "matchedField": "english"
       },
       {
-        "id": 140350,
-        "title": "Kingdom Season 4",
-        "romaji": "Kingdom 4th Season",
-        "format": "TV",
-        "episodes": 26,
-        "seasonYear": 2022,
-        "score": 0.571,
-        "matchedOn": "kingdom season 4",
-        "matchedField": "english"
-      },
-      {
         "id": 190840,
         "title": "Kingdom Season 6",
         "romaji": "Kingdom 6th Season",
@@ -4343,6 +4310,17 @@
         "seasonYear": 2025,
         "score": 0.571,
         "matchedOn": "kingdom season 6",
+        "matchedField": "english"
+      },
+      {
+        "id": 140350,
+        "title": "Kingdom Season 4",
+        "romaji": "Kingdom 4th Season",
+        "format": "TV",
+        "episodes": 26,
+        "seasonYear": 2022,
+        "score": 0.571,
+        "matchedOn": "kingdom season 4",
         "matchedField": "english"
       },
       {
@@ -5620,14 +5598,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 107370,
-        "title": "Legendary Overlord",
-        "romaji": "Xue Ying Lingzhu",
+        "id": 215526,
+        "title": "Primeval Overlord",
+        "romaji": "Taigu Shen Zun",
         "format": "ONA",
-        "episodes": 26,
+        "episodes": 40,
         "seasonYear": null,
-        "score": 0.583,
-        "matchedOn": "legendary overlord",
+        "score": 0.609,
+        "matchedOn": "primeval overlord",
         "matchedField": "english"
       }
     ]
@@ -5635,7 +5613,7 @@
   "pokemon": {
     "title": "Pokémon",
     "reason": "no-exact-title-match",
-    "aflEpisodes": 1138,
+    "aflEpisodes": 1139,
     "fillerCount": 235,
     "candidates": [
       {
