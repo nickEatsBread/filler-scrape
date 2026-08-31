@@ -857,14 +857,14 @@
   "bleach-thousand-year-blood-war": {
     "title": "Bleach: Thousand-Year Blood War (Bleach: Sennen Kessen-hen)",
     "reason": "episode-count-overflow",
-    "aflEpisodes": 40,
+    "aflEpisodes": 41,
     "fillerCount": 0,
     "alignment": {
       "ok": false,
       "unknown": false,
-      "overflow": 27,
+      "overflow": 28,
       "anilistEpisodes": 13,
-      "scrapedEpisodeCount": 40
+      "scrapedEpisodeCount": 41
     },
     "candidates": [
       {
@@ -3139,15 +3139,15 @@
         "matchedField": "synonym"
       },
       {
-        "id": 142343,
-        "title": "Golden Kamuy Season 4",
-        "romaji": "Golden Kamuy 4th Season",
+        "id": 166521,
+        "title": "Golden Kamuy Final Season",
+        "romaji": "Golden Kamuy: Saishuushou",
         "format": "TV",
         "episodes": 13,
-        "seasonYear": 2022,
+        "seasonYear": 2026,
         "score": 0.71,
-        "matchedOn": "golden kamuy season 4",
-        "matchedField": "english"
+        "matchedOn": "golden kamuy season 5",
+        "matchedField": "synonym"
       }
     ]
   },
@@ -3999,14 +3999,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 209895,
-        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
-        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
-        "format": null,
-        "episodes": null,
-        "seasonYear": null,
+        "id": 172463,
+        "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2026,
         "score": 0.703,
-        "matchedOn": "jujutsu kaisen 4th season",
+        "matchedOn": "jujutsu kaisen 3rd season",
         "matchedField": "synonym"
       }
     ]
@@ -4423,17 +4423,6 @@
         "matchedField": "synonym"
       },
       {
-        "id": 136804,
-        "title": "KONOSUBA -God's blessing on this wonderful world! 3",
-        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-        "format": "TV",
-        "episodes": 11,
-        "seasonYear": 2024,
-        "score": 0.978,
-        "matchedOn": "konosuba gods blessing on this wonderful world 3",
-        "matchedField": "english"
-      },
-      {
         "id": 21699,
         "title": "KONOSUBA -God's blessing on this wonderful world! 2",
         "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
@@ -4442,6 +4431,17 @@
         "seasonYear": 2017,
         "score": 0.978,
         "matchedOn": "konosuba gods blessing on this wonderful world 2",
+        "matchedField": "english"
+      },
+      {
+        "id": 136804,
+        "title": "KONOSUBA -God's blessing on this wonderful world! 3",
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "format": "TV",
+        "episodes": 11,
+        "seasonYear": 2024,
+        "score": 0.978,
+        "matchedOn": "konosuba gods blessing on this wonderful world 3",
         "matchedField": "english"
       },
       {
@@ -6167,14 +6167,14 @@
         "matchedField": "english"
       },
       {
-        "id": 124410,
-        "title": "Rent-a-Girlfriend Season 2",
-        "romaji": "Kanojo, Okarishimasu 2nd Season",
+        "id": 154745,
+        "title": "Rent-a-Girlfriend Season 3",
+        "romaji": "Kanojo, Okarishimasu 3rd Season",
         "format": "TV",
         "episodes": 12,
-        "seasonYear": 2022,
+        "seasonYear": 2023,
         "score": 0.78,
-        "matchedOn": "rent a girlfriend season 2",
+        "matchedOn": "rent a girlfriend season 3",
         "matchedField": "english"
       }
     ]
