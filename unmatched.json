@@ -857,14 +857,14 @@
   "bleach-thousand-year-blood-war": {
     "title": "Bleach: Thousand-Year Blood War (Bleach: Sennen Kessen-hen)",
     "reason": "episode-count-overflow",
-    "aflEpisodes": 43,
+    "aflEpisodes": 44,
     "fillerCount": 0,
     "alignment": {
       "ok": false,
       "unknown": false,
-      "overflow": 30,
+      "overflow": 31,
       "anilistEpisodes": 13,
-      "scrapedEpisodeCount": 43
+      "scrapedEpisodeCount": 44
     },
     "candidates": [
       {
@@ -3944,14 +3944,14 @@
   "jujutsu-kaisen": {
     "title": "JUJUTSU KAISEN",
     "reason": "episode-count-overflow",
-    "aflEpisodes": 58,
+    "aflEpisodes": 59,
     "fillerCount": 0,
     "alignment": {
       "ok": false,
       "unknown": false,
-      "overflow": 34,
+      "overflow": 35,
       "anilistEpisodes": 24,
-      "scrapedEpisodeCount": 58
+      "scrapedEpisodeCount": 59
     },
     "candidates": [
       {
@@ -4302,17 +4302,6 @@
         "matchedField": "english"
       },
       {
-        "id": 190840,
-        "title": "Kingdom Season 6",
-        "romaji": "Kingdom 6th Season",
-        "format": "TV",
-        "episodes": 13,
-        "seasonYear": 2025,
-        "score": 0.571,
-        "matchedOn": "kingdom season 6",
-        "matchedField": "english"
-      },
-      {
         "id": 140350,
         "title": "Kingdom Season 4",
         "romaji": "Kingdom 4th Season",
@@ -4321,6 +4310,17 @@
         "seasonYear": 2022,
         "score": 0.571,
         "matchedOn": "kingdom season 4",
+        "matchedField": "english"
+      },
+      {
+        "id": 190840,
+        "title": "Kingdom Season 6",
+        "romaji": "Kingdom 6th Season",
+        "format": "TV",
+        "episodes": 13,
+        "seasonYear": 2025,
+        "score": 0.571,
+        "matchedOn": "kingdom season 6",
         "matchedField": "english"
       },
       {
@@ -6145,17 +6145,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 213581,
-        "title": "Kanojo, Okarishimasu 6th Season",
-        "romaji": "Kanojo, Okarishimasu 6th Season",
-        "format": null,
-        "episodes": null,
-        "seasonYear": null,
-        "score": 0.78,
-        "matchedOn": "rent a girlfriend season 6",
-        "matchedField": "synonym"
-      },
-      {
         "id": 199029,
         "title": "Rent-a-Girlfriend Season 5",
         "romaji": "Kanojo, Okarishimasu 5th Season",
@@ -6165,6 +6154,17 @@
         "score": 0.78,
         "matchedOn": "rent a girlfriend season 5",
         "matchedField": "english"
+      },
+      {
+        "id": 213581,
+        "title": "Kanojo, Okarishimasu 6th Season",
+        "romaji": "Kanojo, Okarishimasu 6th Season",
+        "format": null,
+        "episodes": null,
+        "seasonYear": null,
+        "score": 0.78,
+        "matchedOn": "rent a girlfriend season 6",
+        "matchedField": "synonym"
       },
       {
         "id": 154745,
