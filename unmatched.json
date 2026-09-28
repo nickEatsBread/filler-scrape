@@ -857,14 +857,14 @@
   "bleach-thousand-year-blood-war": {
     "title": "Bleach: Thousand-Year Blood War (Bleach: Sennen Kessen-hen)",
     "reason": "episode-count-overflow",
-    "aflEpisodes": 44,
+    "aflEpisodes": 45,
     "fillerCount": 0,
     "alignment": {
       "ok": false,
       "unknown": false,
-      "overflow": 31,
+      "overflow": 32,
       "anilistEpisodes": 13,
-      "scrapedEpisodeCount": 44
+      "scrapedEpisodeCount": 45
     },
     "candidates": [
       {
@@ -3634,6 +3634,17 @@
         "matchedField": "english"
       },
       {
+        "id": 822,
+        "title": "Initial D Extra Stage",
+        "romaji": "Initial D EXTRA STAGE",
+        "format": "OVA",
+        "episodes": 2,
+        "seasonYear": 2000,
+        "score": 0.571,
+        "matchedOn": "initial d extra stage",
+        "matchedField": "romaji"
+      },
+      {
         "id": 19613,
         "title": "Initial D Final Stage",
         "romaji": "Initial D Final Stage",
@@ -3642,17 +3653,6 @@
         "seasonYear": 2014,
         "score": 0.571,
         "matchedOn": "initial d final stage",
-        "matchedField": "romaji"
-      },
-      {
-        "id": 15059,
-        "title": "Initial D Fifth Stage",
-        "romaji": "Initial D Fifth Stage",
-        "format": "TV",
-        "episodes": 14,
-        "seasonYear": 2012,
-        "score": 0.571,
-        "matchedOn": "initial d fifth stage",
         "matchedField": "romaji"
       }
     ]
@@ -3999,14 +3999,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 172463,
-        "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-        "format": "TV",
-        "episodes": 12,
-        "seasonYear": 2026,
+        "id": 209895,
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
+        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
+        "format": null,
+        "episodes": null,
+        "seasonYear": null,
         "score": 0.703,
-        "matchedOn": "jujutsu kaisen 3rd season",
+        "matchedOn": "jujutsu kaisen 4th season",
         "matchedField": "synonym"
       }
     ]
@@ -4302,17 +4302,6 @@
         "matchedField": "english"
       },
       {
-        "id": 140350,
-        "title": "Kingdom Season 4",
-        "romaji": "Kingdom 4th Season",
-        "format": "TV",
-        "episodes": 26,
-        "seasonYear": 2022,
-        "score": 0.571,
-        "matchedOn": "kingdom season 4",
-        "matchedField": "english"
-      },
-      {
         "id": 190840,
         "title": "Kingdom Season 6",
         "romaji": "Kingdom 6th Season",
@@ -4321,6 +4310,17 @@
         "seasonYear": 2025,
         "score": 0.571,
         "matchedOn": "kingdom season 6",
+        "matchedField": "english"
+      },
+      {
+        "id": 140350,
+        "title": "Kingdom Season 4",
+        "romaji": "Kingdom 4th Season",
+        "format": "TV",
+        "episodes": 26,
+        "seasonYear": 2022,
+        "score": 0.571,
+        "matchedOn": "kingdom season 4",
         "matchedField": "english"
       },
       {
@@ -5141,14 +5141,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 100166,
-        "title": "My Hero Academia Season 3",
-        "romaji": "Boku no Hero Academia 3",
+        "id": 117193,
+        "title": "My Hero Academia Season 5",
+        "romaji": "Boku no Hero Academia 5",
         "format": "TV",
         "episodes": 25,
-        "seasonYear": 2018,
+        "seasonYear": 2021,
         "score": 0.952,
-        "matchedOn": "boku no hero academia 3",
+        "matchedOn": "boku no hero academia 5",
         "matchedField": "romaji"
       }
     ]
@@ -5780,15 +5780,15 @@
         "matchedField": "synonym"
       },
       {
-        "id": 97874,
-        "title": "Frame Arms Girl",
-        "romaji": "Frame Arms Girl",
+        "id": 154673,
+        "title": "Mecha Ude: Mechanical Arms",
+        "romaji": "Mecha-ude (TV)",
         "format": "TV",
         "episodes": 12,
-        "seasonYear": 2017,
-        "score": 0.353,
-        "matchedOn": "frame arms girl",
-        "matchedField": "romaji"
+        "seasonYear": 2024,
+        "score": 0.4,
+        "matchedOn": "mechanical arms",
+        "matchedField": "synonym"
       }
     ]
   },
@@ -5854,17 +5854,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 108307,
-        "title": "PSYCHO-PASS 3",
-        "romaji": "PSYCHO-PASS 3",
-        "format": "TV",
-        "episodes": 8,
-        "seasonYear": 2019,
-        "score": 0.909,
-        "matchedOn": "psycho pass 3",
-        "matchedField": "romaji"
-      },
-      {
         "id": 20513,
         "title": "PSYCHO-PASS 2",
         "romaji": "PSYCHO-PASS 2",
@@ -5873,6 +5862,17 @@
         "seasonYear": 2014,
         "score": 0.909,
         "matchedOn": "psycho pass 2",
+        "matchedField": "romaji"
+      },
+      {
+        "id": 108307,
+        "title": "PSYCHO-PASS 3",
+        "romaji": "PSYCHO-PASS 3",
+        "format": "TV",
+        "episodes": 8,
+        "seasonYear": 2019,
+        "score": 0.909,
+        "matchedOn": "psycho pass 3",
         "matchedField": "romaji"
       },
       {
@@ -6145,17 +6145,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 199029,
-        "title": "Rent-a-Girlfriend Season 5",
-        "romaji": "Kanojo, Okarishimasu 5th Season",
-        "format": "ONA",
-        "episodes": 12,
-        "seasonYear": 2026,
-        "score": 0.78,
-        "matchedOn": "rent a girlfriend season 5",
-        "matchedField": "english"
-      },
-      {
         "id": 213581,
         "title": "Kanojo, Okarishimasu 6th Season",
         "romaji": "Kanojo, Okarishimasu 6th Season",
@@ -6165,6 +6154,17 @@
         "score": 0.78,
         "matchedOn": "rent a girlfriend season 6",
         "matchedField": "synonym"
+      },
+      {
+        "id": 199029,
+        "title": "Rent-a-Girlfriend Season 5",
+        "romaji": "Kanojo, Okarishimasu 5th Season",
+        "format": "ONA",
+        "episodes": 12,
+        "seasonYear": 2026,
+        "score": 0.78,
+        "matchedOn": "rent a girlfriend season 5",
+        "matchedField": "english"
       },
       {
         "id": 154745,
