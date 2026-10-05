@@ -857,14 +857,14 @@
   "bleach-thousand-year-blood-war": {
     "title": "Bleach: Thousand-Year Blood War (Bleach: Sennen Kessen-hen)",
     "reason": "episode-count-overflow",
-    "aflEpisodes": 45,
+    "aflEpisodes": 46,
     "fillerCount": 0,
     "alignment": {
       "ok": false,
       "unknown": false,
-      "overflow": 32,
+      "overflow": 33,
       "anilistEpisodes": 13,
-      "scrapedEpisodeCount": 45
+      "scrapedEpisodeCount": 46
     },
     "candidates": [
       {
@@ -2049,7 +2049,7 @@
       {
         "id": 20652,
         "title": "Durarara!! X2",
-        "romaji": "Durarara!!x2 Shou",
+        "romaji": "Durarara!!×2 Shou",
         "format": "TV",
         "episodes": 12,
         "seasonYear": 2015,
@@ -2071,23 +2071,23 @@
       {
         "id": 20879,
         "title": "Durarara!! X2 The Second Arc",
-        "romaji": "Durarara!!x2 Ten",
+        "romaji": "Durarara!!×2 Ten",
         "format": "TV",
         "episodes": 12,
         "seasonYear": 2015,
-        "score": 0.667,
-        "matchedOn": "durarara x2 ten",
+        "score": 0.636,
+        "matchedOn": "durarara x 2 ten",
         "matchedField": "romaji"
       },
       {
         "id": 20880,
         "title": "Durarara!! X2 The Third Arc",
-        "romaji": "Durarara!!x2 Ketsu",
+        "romaji": "Durarara!!×2 Ketsu",
         "format": "TV",
         "episodes": 12,
         "seasonYear": 2016,
-        "score": 0.609,
-        "matchedOn": "durarara x2 ketsu",
+        "score": 0.583,
+        "matchedOn": "durarara x 2 ketsu",
         "matchedField": "romaji"
       }
     ]
@@ -4807,6 +4807,76 @@
       }
     ]
   },
+  "maken-ki-battling-venus": {
+    "title": "Maken-ki! Battling Venus (Maken-ki!)",
+    "reason": "episode-count-overflow",
+    "aflEpisodes": 22,
+    "fillerCount": 10,
+    "alignment": {
+      "ok": false,
+      "unknown": false,
+      "overflow": 10,
+      "anilistEpisodes": 12,
+      "scrapedEpisodeCount": 22
+    },
+    "candidates": [
+      {
+        "id": 9936,
+        "title": "Maken-Ki! Battling Venus",
+        "romaji": "Maken-Ki!",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2011,
+        "score": 1,
+        "matchedOn": "maken ki battling venus",
+        "matchedField": "english"
+      },
+      {
+        "id": 15565,
+        "title": "Maken-Ki! Battling Venus 2",
+        "romaji": "Maken-Ki! Tsuu",
+        "format": "TV",
+        "episodes": 10,
+        "seasonYear": 2014,
+        "score": 0.957,
+        "matchedOn": "maken ki battling venus 2",
+        "matchedField": "english"
+      },
+      {
+        "id": 11209,
+        "title": "Maken-Ki! OVA",
+        "romaji": "Maken-Ki! OVA",
+        "format": "OVA",
+        "episodes": 2,
+        "seasonYear": 2012,
+        "score": 0.778,
+        "matchedOn": "maken ki ova",
+        "matchedField": "romaji"
+      },
+      {
+        "id": 12449,
+        "title": "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+        "romaji": "Maken-ki!: Doki Doki! Maken-ki! Himitsu no Kunren",
+        "format": "SPECIAL",
+        "episodes": 6,
+        "seasonYear": 2011,
+        "score": 0.609,
+        "matchedOn": "maken ki specials",
+        "matchedField": "synonym"
+      },
+      {
+        "id": 20750,
+        "title": "Maken-Ki! Tsuu P～Watakushigoto",
+        "romaji": "Maken-Ki! Tsuu P～Watakushigoto",
+        "format": "SPECIAL",
+        "episodes": 5,
+        "seasonYear": 2014,
+        "score": 0.56,
+        "matchedOn": "maken ki 2 specials",
+        "matchedField": "synonym"
+      }
+    ]
+  },
   "mashle-magic-and-muscles": {
     "title": "MASHLE: MAGIC AND MUSCLES",
     "reason": "episode-count-overflow",
@@ -5083,6 +5153,21 @@
       }
     ]
   },
+  "my-dress-darling": {
+    "title": "My Dress-Up Darling (Sono Bisque Doll wa Koi wo Suru)",
+    "reason": "episode-count-overflow",
+    "note": "cached mapping in mapping.json no longer covers the scraped episode range; re-run with --refresh or set an override",
+    "aflEpisodes": 24,
+    "fillerCount": 0,
+    "alignment": {
+      "ok": false,
+      "unknown": false,
+      "overflow": 12,
+      "anilistEpisodes": 12,
+      "scrapedEpisodeCount": 24
+    },
+    "anilistId": 132405
+  },
   "my-hero-academia": {
     "title": "My Hero Academia (Boku no Hero Academia)",
     "reason": "episode-count-overflow",
@@ -5141,14 +5226,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 117193,
-        "title": "My Hero Academia Season 5",
-        "romaji": "Boku no Hero Academia 5",
+        "id": 139630,
+        "title": "My Hero Academia Season 6",
+        "romaji": "Boku no Hero Academia 6",
         "format": "TV",
         "episodes": 25,
-        "seasonYear": 2021,
+        "seasonYear": 2022,
         "score": 0.952,
-        "matchedOn": "boku no hero academia 5",
+        "matchedOn": "boku no hero academia 6",
         "matchedField": "romaji"
       }
     ]
@@ -5854,17 +5939,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 20513,
-        "title": "PSYCHO-PASS 2",
-        "romaji": "PSYCHO-PASS 2",
-        "format": "TV",
-        "episodes": 11,
-        "seasonYear": 2014,
-        "score": 0.909,
-        "matchedOn": "psycho pass 2",
-        "matchedField": "romaji"
-      },
-      {
         "id": 108307,
         "title": "PSYCHO-PASS 3",
         "romaji": "PSYCHO-PASS 3",
@@ -5873,6 +5947,17 @@
         "seasonYear": 2019,
         "score": 0.909,
         "matchedOn": "psycho pass 3",
+        "matchedField": "romaji"
+      },
+      {
+        "id": 20513,
+        "title": "PSYCHO-PASS 2",
+        "romaji": "PSYCHO-PASS 2",
+        "format": "TV",
+        "episodes": 11,
+        "seasonYear": 2014,
+        "score": 0.909,
+        "matchedOn": "psycho pass 2",
         "matchedField": "romaji"
       },
       {
@@ -7186,7 +7271,7 @@
         "title": "Tokyo Revengers: Santen Sensou-hen",
         "romaji": "Tokyo Revengers: Santen Sensou-hen",
         "format": "TV",
-        "episodes": null,
+        "episodes": 13,
         "seasonYear": 2026,
         "score": 0.8,
         "matchedOn": "tokyo revengers sequel",
@@ -7447,64 +7532,20 @@
   },
   "x": {
     "title": "X",
-    "reason": "no-exact-title-match",
+    "reason": "synonym-only-match",
     "aflEpisodes": 24,
     "fillerCount": 0,
     "candidates": [
       {
-        "id": 156,
-        "title": "X (TV)",
-        "romaji": "X (TV)",
+        "id": 165159,
+        "title": "BEYBLADE X",
+        "romaji": "BEYBLADE X",
         "format": "TV",
-        "episodes": 24,
-        "seasonYear": 2001,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 7411,
-        "title": "Kanojo x Kanojo x Kanojo",
-        "romaji": "Kanojo x Kanojo x Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu",
-        "format": "OVA",
-        "episodes": 3,
-        "seasonYear": 2009,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 4866,
-        "title": "Pico x CoCo x Chico",
-        "romaji": "Pico x CoCo x Chico",
-        "format": "OVA",
-        "episodes": 1,
-        "seasonYear": 2008,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 21884,
-        "title": "X Maiden",
-        "romaji": "X Maiden",
-        "format": "ONA",
-        "episodes": 8,
-        "seasonYear": 2014,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 9613,
-        "title": "Big X",
-        "romaji": "Big X",
-        "format": "TV",
-        "episodes": 59,
-        "seasonYear": 1964,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
+        "episodes": null,
+        "seasonYear": 2023,
+        "score": 1,
+        "matchedOn": "x",
+        "matchedField": "synonym"
       }
     ]
   },
