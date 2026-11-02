@@ -167,7 +167,7 @@
     "source": "anilist-search",
     "aflEpisodes": 40,
     "anilistEpisodes": null,
-    "resolvedAt": "2026-10-26T10:16:22.043Z"
+    "resolvedAt": "2026-11-02T12:34:43.319Z"
   },
   "black-clover": {
     "anilistId": 97940,
@@ -267,7 +267,7 @@
     "source": "anilist-search",
     "aflEpisodes": 26,
     "anilistEpisodes": 26,
-    "resolvedAt": "2026-10-26T10:20:06.687Z"
+    "resolvedAt": "2026-11-02T12:38:27.766Z"
   },
   "campione": {
     "anilistId": 12293,
@@ -425,9 +425,9 @@
     "matchedTitle": "Detective Conan",
     "matchedField": "english",
     "source": "anilist-search",
-    "aflEpisodes": 1218,
+    "aflEpisodes": 1219,
     "anilistEpisodes": null,
-    "resolvedAt": "2026-10-26T10:25:02.463Z"
+    "resolvedAt": "2026-11-02T12:43:23.701Z"
   },
   "detective-school-q": {
     "anilistId": 407,
@@ -1167,7 +1167,7 @@
     "source": "anilist-search",
     "aflEpisodes": 138,
     "anilistEpisodes": null,
-    "resolvedAt": "2026-10-26T10:52:31.026Z"
+    "resolvedAt": "2026-11-02T13:10:31.669Z"
   },
   "one-piece": {
     "anilistId": 21,
@@ -1177,7 +1177,7 @@
     "source": "anilist-search",
     "aflEpisodes": 1168,
     "anilistEpisodes": null,
-    "resolvedAt": "2026-10-26T10:52:37.105Z"
+    "resolvedAt": "2026-11-02T13:10:37.673Z"
   },
   "one-piece-0": {
     "anilistId": 171630,
