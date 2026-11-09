@@ -4482,17 +4482,6 @@
         "matchedField": "english"
       },
       {
-        "id": 20725,
-        "title": "Kuroko's Basketball 3",
-        "romaji": "Kuroko no Basket 3rd SEASON",
-        "format": "TV",
-        "episodes": 25,
-        "seasonYear": 2015,
-        "score": 0.944,
-        "matchedOn": "kurokos basketball 3",
-        "matchedField": "english"
-      },
-      {
         "id": 16894,
         "title": "Kuroko's Basketball 2",
         "romaji": "Kuroko no Basket 2nd SEASON",
@@ -4501,6 +4490,17 @@
         "seasonYear": 2013,
         "score": 0.944,
         "matchedOn": "kurokos basketball 2",
+        "matchedField": "english"
+      },
+      {
+        "id": 20725,
+        "title": "Kuroko's Basketball 3",
+        "romaji": "Kuroko no Basket 3rd SEASON",
+        "format": "TV",
+        "episodes": 25,
+        "seasonYear": 2015,
+        "score": 0.944,
+        "matchedOn": "kurokos basketball 3",
         "matchedField": "english"
       },
       {
@@ -4703,6 +4703,17 @@
         "matchedField": "romaji"
       },
       {
+        "id": 171025,
+        "title": "Magilumiere Magical Girls Inc.",
+        "romaji": "Kabushiki Gaisha Magi Lumiere",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2024,
+        "score": 0.353,
+        "matchedOn": "magilumiere inc",
+        "matchedField": "synonym"
+      },
+      {
         "id": 21394,
         "title": "Magi: Adventure of Sinbad",
         "romaji": "Magi: Sinbad no Bouken",
@@ -4722,17 +4733,6 @@
         "seasonYear": 2013,
         "score": 0.231,
         "matchedOn": "the labyrinth of magic 2",
-        "matchedField": "synonym"
-      },
-      {
-        "id": 20609,
-        "title": "Magi: Adventure of Sinbad (OVA)",
-        "romaji": "Magi: Sinbad no Bouken OVA",
-        "format": "OVA",
-        "episodes": 5,
-        "seasonYear": 2014,
-        "score": 0.231,
-        "matchedOn": "magi adventure of sinbad",
         "matchedField": "synonym"
       }
     ]
