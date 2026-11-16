@@ -725,6 +725,21 @@
       }
     ]
   },
+  "black-clover": {
+    "title": "Black Clover",
+    "reason": "episode-count-overflow",
+    "note": "cached mapping in mapping.json no longer covers the scraped episode range; re-run with --refresh or set an override",
+    "aflEpisodes": 176,
+    "fillerCount": 18,
+    "alignment": {
+      "ok": false,
+      "unknown": false,
+      "overflow": 6,
+      "anilistEpisodes": 170,
+      "scrapedEpisodeCount": 176
+    },
+    "anilistId": 97940
+  },
   "black-lagoon": {
     "title": "Black Lagoon",
     "reason": "episode-count-overflow",
@@ -890,17 +905,6 @@
         "matchedField": "synonym"
       },
       {
-        "id": 159322,
-        "title": "BLEACH: Thousand-Year Blood War - The Separation",
-        "romaji": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
-        "format": "TV",
-        "episodes": 13,
-        "seasonYear": 2023,
-        "score": 0.892,
-        "matchedOn": "bleach thousand year blood war part 2",
-        "matchedField": "synonym"
-      },
-      {
         "id": 169755,
         "title": "BLEACH: Thousand-Year Blood War - The Conflict",
         "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
@@ -909,6 +913,17 @@
         "seasonYear": 2024,
         "score": 0.892,
         "matchedOn": "bleach thousand year blood war part 3",
+        "matchedField": "synonym"
+      },
+      {
+        "id": 159322,
+        "title": "BLEACH: Thousand-Year Blood War - The Separation",
+        "romaji": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+        "format": "TV",
+        "episodes": 13,
+        "seasonYear": 2023,
+        "score": 0.892,
+        "matchedOn": "bleach thousand year blood war part 2",
         "matchedField": "synonym"
       }
     ]
@@ -1101,17 +1116,6 @@
         "matchedField": "english"
       },
       {
-        "id": 103223,
-        "title": "Bungo Stray Dogs 3",
-        "romaji": "Bungou Stray Dogs 3rd Season",
-        "format": "TV",
-        "episodes": 12,
-        "seasonYear": 2019,
-        "score": 0.938,
-        "matchedOn": "bungo stray dogs 3",
-        "matchedField": "english"
-      },
-      {
         "id": 21679,
         "title": "Bungo Stray Dogs 2",
         "romaji": "Bungou Stray Dogs 2nd Season",
@@ -1120,6 +1124,17 @@
         "seasonYear": 2016,
         "score": 0.938,
         "matchedOn": "bungo stray dogs 2",
+        "matchedField": "english"
+      },
+      {
+        "id": 103223,
+        "title": "Bungo Stray Dogs 3",
+        "romaji": "Bungou Stray Dogs 3rd Season",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2019,
+        "score": 0.938,
+        "matchedOn": "bungo stray dogs 3",
         "matchedField": "english"
       },
       {
@@ -4423,17 +4438,6 @@
         "matchedField": "synonym"
       },
       {
-        "id": 21699,
-        "title": "KONOSUBA -God's blessing on this wonderful world! 2",
-        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
-        "format": "TV",
-        "episodes": 10,
-        "seasonYear": 2017,
-        "score": 0.978,
-        "matchedOn": "konosuba gods blessing on this wonderful world 2",
-        "matchedField": "english"
-      },
-      {
         "id": 136804,
         "title": "KONOSUBA -God's blessing on this wonderful world! 3",
         "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3",
@@ -4442,6 +4446,17 @@
         "seasonYear": 2024,
         "score": 0.978,
         "matchedOn": "konosuba gods blessing on this wonderful world 3",
+        "matchedField": "english"
+      },
+      {
+        "id": 21699,
+        "title": "KONOSUBA -God's blessing on this wonderful world! 2",
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "format": "TV",
+        "episodes": 10,
+        "seasonYear": 2017,
+        "score": 0.978,
+        "matchedOn": "konosuba gods blessing on this wonderful world 2",
         "matchedField": "english"
       },
       {
@@ -6230,17 +6245,6 @@
         "matchedField": "romaji"
       },
       {
-        "id": 213581,
-        "title": "Kanojo, Okarishimasu 6th Season",
-        "romaji": "Kanojo, Okarishimasu 6th Season",
-        "format": null,
-        "episodes": null,
-        "seasonYear": null,
-        "score": 0.78,
-        "matchedOn": "rent a girlfriend season 6",
-        "matchedField": "synonym"
-      },
-      {
         "id": 199029,
         "title": "Rent-a-Girlfriend Season 5",
         "romaji": "Kanojo, Okarishimasu 5th Season",
@@ -6250,6 +6254,17 @@
         "score": 0.78,
         "matchedOn": "rent a girlfriend season 5",
         "matchedField": "english"
+      },
+      {
+        "id": 213581,
+        "title": "Kanojo, Okarishimasu 6th Season",
+        "romaji": "Kanojo, Okarishimasu 6th Season",
+        "format": null,
+        "episodes": null,
+        "seasonYear": null,
+        "score": 0.78,
+        "matchedOn": "rent a girlfriend season 6",
+        "matchedField": "synonym"
       },
       {
         "id": 154745,
@@ -6471,17 +6486,6 @@
         "matchedField": "english"
       },
       {
-        "id": 532,
-        "title": "Sailor Moon S",
-        "romaji": "Bishoujo Senshi Sailor Moon S",
-        "format": "TV",
-        "episodes": 38,
-        "seasonYear": 1994,
-        "score": 0.963,
-        "matchedOn": "bishoujo senshi sailor moon s",
-        "matchedField": "romaji"
-      },
-      {
         "id": 740,
         "title": "Sailor Moon R",
         "romaji": "Bishoujo Senshi Sailor Moon R",
@@ -6490,6 +6494,17 @@
         "seasonYear": 1993,
         "score": 0.963,
         "matchedOn": "bishoujo senshi sailor moon r",
+        "matchedField": "romaji"
+      },
+      {
+        "id": 532,
+        "title": "Sailor Moon S",
+        "romaji": "Bishoujo Senshi Sailor Moon S",
+        "format": "TV",
+        "episodes": 38,
+        "seasonYear": 1994,
+        "score": 0.963,
+        "matchedOn": "bishoujo senshi sailor moon s",
         "matchedField": "romaji"
       },
       {
@@ -7527,69 +7542,6 @@
         "score": 0.906,
         "matchedOn": "higurashi no naku koro ni kira",
         "matchedField": "romaji"
-      }
-    ]
-  },
-  "x": {
-    "title": "X",
-    "reason": "no-exact-title-match",
-    "aflEpisodes": 24,
-    "fillerCount": 0,
-    "candidates": [
-      {
-        "id": 156,
-        "title": "X (TV)",
-        "romaji": "X (TV)",
-        "format": "TV",
-        "episodes": 24,
-        "seasonYear": 2001,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 7411,
-        "title": "Kanojo x Kanojo x Kanojo",
-        "romaji": "Kanojo × Kanojo × Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu",
-        "format": "OVA",
-        "episodes": 3,
-        "seasonYear": 2009,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 21884,
-        "title": "X Maiden",
-        "romaji": "X Maiden",
-        "format": "ONA",
-        "episodes": 8,
-        "seasonYear": 2014,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 9613,
-        "title": "Big X",
-        "romaji": "Big X",
-        "format": "TV",
-        "episodes": 59,
-        "seasonYear": 1964,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
-      },
-      {
-        "id": 12091,
-        "title": "Star Fleet",
-        "romaji": "X Bomber",
-        "format": "TV",
-        "episodes": 25,
-        "seasonYear": 1980,
-        "score": 0,
-        "matchedOn": null,
-        "matchedField": null
       }
     ]
   },
