@@ -894,17 +894,6 @@
         "matchedField": "english"
       },
       {
-        "id": 185874,
-        "title": "BLEACH: Thousand-Year Blood War - The Calamity",
-        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
-        "format": "TV",
-        "episodes": 10,
-        "seasonYear": 2026,
-        "score": 0.892,
-        "matchedOn": "bleach thousand year blood war part 4",
-        "matchedField": "synonym"
-      },
-      {
         "id": 169755,
         "title": "BLEACH: Thousand-Year Blood War - The Conflict",
         "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
@@ -913,6 +902,17 @@
         "seasonYear": 2024,
         "score": 0.892,
         "matchedOn": "bleach thousand year blood war part 3",
+        "matchedField": "synonym"
+      },
+      {
+        "id": 185874,
+        "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+        "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+        "format": "TV",
+        "episodes": 10,
+        "seasonYear": 2026,
+        "score": 0.892,
+        "matchedOn": "bleach thousand year blood war part 4",
         "matchedField": "synonym"
       },
       {
@@ -1138,17 +1138,6 @@
         "matchedField": "english"
       },
       {
-        "id": 163263,
-        "title": "Bungo Stray Dogs 5",
-        "romaji": "Bungou Stray Dogs 5th Season",
-        "format": "TV",
-        "episodes": 11,
-        "seasonYear": 2023,
-        "score": 0.938,
-        "matchedOn": "bungo stray dogs 5",
-        "matchedField": "english"
-      },
-      {
         "id": 141249,
         "title": "Bungo Stray Dogs 4",
         "romaji": "Bungou Stray Dogs 4th Season",
@@ -1157,6 +1146,17 @@
         "seasonYear": 2023,
         "score": 0.938,
         "matchedOn": "bungo stray dogs 4",
+        "matchedField": "english"
+      },
+      {
+        "id": 163263,
+        "title": "Bungo Stray Dogs 5",
+        "romaji": "Bungou Stray Dogs 5th Season",
+        "format": "TV",
+        "episodes": 11,
+        "seasonYear": 2023,
+        "score": 0.938,
+        "matchedOn": "bungo stray dogs 5",
         "matchedField": "english"
       }
     ]
@@ -1477,13 +1477,13 @@
       },
       {
         "id": 213477,
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
-        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season 2-nensei-hen Ni Gakki - Zenhan",
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season 2-nensei-hen Ni Gakki - Zenhan",
         "format": "TV",
         "episodes": null,
         "seasonYear": null,
-        "score": 0.792,
-        "matchedOn": "classroom of the elite 5th season",
+        "score": 0.457,
+        "matchedOn": "classroom of the elite 5th season second year second semester first half",
         "matchedField": "synonym"
       }
     ]
@@ -4014,14 +4014,14 @@
         "matchedField": "romaji"
       },
       {
-        "id": 209895,
-        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
-        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
-        "format": null,
-        "episodes": null,
-        "seasonYear": null,
+        "id": 172463,
+        "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "format": "TV",
+        "episodes": 12,
+        "seasonYear": 2026,
         "score": 0.703,
-        "matchedOn": "jujutsu kaisen 4th season",
+        "matchedOn": "jujutsu kaisen 3rd season",
         "matchedField": "synonym"
       }
     ]
@@ -5703,7 +5703,7 @@
         "romaji": "Taigu Shen Zun",
         "format": "ONA",
         "episodes": 40,
-        "seasonYear": null,
+        "seasonYear": 2026,
         "score": 0.609,
         "matchedOn": "primeval overlord",
         "matchedField": "english"
@@ -5713,7 +5713,7 @@
   "pokemon": {
     "title": "Pokémon",
     "reason": "no-exact-title-match",
-    "aflEpisodes": 1140,
+    "aflEpisodes": 1143,
     "fillerCount": 235,
     "candidates": [
       {
